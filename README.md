@@ -18,13 +18,13 @@ Password generator for termux
 
 >git clone https://github.com/Malik332/PWD
 
-ls
+>ls
 
-cd PWD
+>cd PWD
 
-ls
+>ls
 
-python p-g.py
+>python p-g.py
 
 ### Contact me
 
